@@ -1,0 +1,6 @@
+requests==2.31.0 # the numbers indicate the version
+flask==3.4.0
+
+
+
+

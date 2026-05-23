@@ -1,0 +1,5 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.defaultInterpreterPath": "${workspaceFolder}/01_virtual/.venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true
+}
